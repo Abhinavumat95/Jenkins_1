@@ -1,4 +1,3 @@
-package Mis;
 
 public class JenkinsTest {
 
